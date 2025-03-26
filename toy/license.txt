@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy Bunny
+* source:	https://sketchfab.com/3d-models/toy-bunny-cbf8df1679e44e76be99ca2276d124cf
+* author:	xmnepank (https://sketchfab.com/xmnepank)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy Bunny" (https://sketchfab.com/3d-models/toy-bunny-cbf8df1679e44e76be99ca2276d124cf) by xmnepank (https://sketchfab.com/xmnepank) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
